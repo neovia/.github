@@ -2,9 +2,9 @@
 
 <!-- Quoi et pourquoi, en 2-3 phrases -->
 
-## ⚠️ Breaking changes
+## Breaking changes
 
-<!-- Liste, ou « aucun » -->
+<!-- « aucun » par défaut. S'il y en a : renomme le titre en « ## 🚨 Breaking changes » et liste-les -->
 
 ## Procédure de déploiement
 
@@ -14,9 +14,10 @@
 
 -
 
-## Ticket lié
+## Tickets liés
 
-<!-- ClickUp #… -->
+<!-- Un par ligne — ClickUp #… -->
+-
 
 ## Screenshots
 
@@ -30,6 +31,5 @@
 ## Attestation de compréhension (code assisté par IA)
 
 - [ ] Je comprends le code généré par IA (logique, effets de bord, cas limites)
-- [ ] J'ai vérifié sécurité, secrets et licences
+- [ ] J'ai vérifié conformité, sécurité et secrets
 - [ ] Le code est testé et je peux l'expliquer en revue
-- [ ] Usage IA déclaré ci-dessus
