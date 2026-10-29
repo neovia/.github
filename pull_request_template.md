@@ -30,6 +30,7 @@
 
 ## Attestation de compréhension (code assisté par IA)
 
+- [ ] J'ai relu le diff de la PR : il est correct et correspond au ticket
 - [ ] Je comprends le code généré par IA (logique, effets de bord, cas limites)
 - [ ] J'ai vérifié conformité, sécurité et secrets
 - [ ] Le code est testé et je peux l'expliquer en revue
