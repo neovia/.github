@@ -14,6 +14,10 @@
 
 -
 
+## Comment tester
+
+<!-- Pour la recette du chef de projet : parcours, rôle, données, résultat attendu. « rien à tester » si aucun impact visible -->
+
 ## Tickets liés
 
 <!-- Un par ligne — ClickUp #… -->
